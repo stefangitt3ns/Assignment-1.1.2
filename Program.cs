@@ -10,6 +10,7 @@ namespace Assignment_1._1._2
     {
         static void Main(string[] args)
         {
+            Console.Title = "Assignment 1.1.2"; 
             Console.WriteLine($"The minimum value of an int variable is {int.MinValue} and the maximum value of an in is {int.MaxValue} ");
             Console.WriteLine();
 
